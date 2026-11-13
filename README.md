@@ -132,7 +132,7 @@ interests:
 
 `THANK YOU FOR VISITING MY UNIVERSE`
 
-<img src="https://komarev.com/ghpvc/?username=SEU-USUARIO&color=1737B8&style=for-the-badge&label=PROFILE+VISITORS"/>
+<img src="https://komarev.com/ghpvc/?username=nnataliagomes&color=1737B8&style=for-the-badge&label=PROFILE+VISITORS"/>
 
 <br>
 
@@ -144,6 +144,6 @@ interests:
 
 ## 🟡 MY CONTRIBUTIONS — PAC-MAN ARCADE
 
-<img src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/pacman-contribution-graph.svg" width="100%" alt="Pac-Man eating my contributions"/>
+<img src="https://raw.githubusercontent.com/nnataliagomes/nnataliagomes/output/pacman-contribution-graph.svg" width="100%" alt="Pac-Man eating my contributions"/>
 
 </div>
