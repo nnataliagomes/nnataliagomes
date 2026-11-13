@@ -139,3 +139,11 @@ interests:
 <sub>Made with ☾, pixels & a little bit of nostalgia.</sub>
 
 </div>
+
+<div align="center">
+
+## 🟡 MY CONTRIBUTIONS — PAC-MAN ARCADE
+
+<img src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/pacman-contribution-graph.svg" width="100%" alt="Pac-Man eating my contributions"/>
+
+</div>
